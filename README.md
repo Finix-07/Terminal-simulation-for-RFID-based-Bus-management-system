@@ -2,7 +2,7 @@
 
 (still pending for futher development)
 
-This project is a part of our 2nd-semester project, aiming to simulate RFID input via terminal and display updates in a GUI for managing our college bus transportation.
+This group project is a part of our 2nd-semester project, aiming to simulate RFID input via terminal and display updates in a GUI for managing our college bus transportation.
 
 ## Features
 
